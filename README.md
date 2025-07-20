@@ -21,7 +21,6 @@ The objective of this project is to analyze transactional retail data in order t
 | File/Folder               | Description                                       |
 |---------------------------|---------------------------------------------------|
 | retail_cleaned.csv      | Cleaned dataset used for analysis and BI         |
-| retail_analysis.ipynb   | Google Colab notebook for SQL and Python analysis |
 | retail_queries.sql      | SQL queries used for profitability and trends     |
 | dashboard.pbix          | Power BI Dashboard showing visual insights        |
 | report.pdf              | Final PDF report with visualizations and insights |
